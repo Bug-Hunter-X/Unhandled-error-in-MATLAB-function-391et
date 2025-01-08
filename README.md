@@ -1,0 +1,1 @@
+This repository contains a MATLAB function with an unhandled error. The error message is not informative enough for debugging. The solution provides a more informative error message and better error handling.
